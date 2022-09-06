@@ -1,0 +1,41 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+#    - title: GitHub
+#      external_url: https://github.com/tomjoht/documentation-theme-jekyll
+#    - title: News
+#      url: /news
+    - title: Blog
+      url: \/blog
+    - title: Scoping Model
+      url: \/book\/pci-dss-scoping-model-and-approach
+#    - title: PCI DSS overview
+#      url: \/pcidss
+      
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Books
+      folderitems:
+        - title: Books Home
+          url: \/book\/index.html
+        - title: Scoping Model
+          url: \/book\/pci-dss-scoping-model-and-approach
+#        - title: Books Home
+#          url: \/book\/index.html
+#        - title: Jekyll on Stack Overflow
+#          external_url: http://stackoverflow.com/questions/tagged/jekyll
+#        - title: Jekyll on my blog
+#          external_url: http://idratherbewriting.com/category-jekyll/
+#    - title: Products 456
+#      folderitems:
+#        - title: Jekyll Documentation Theme
+#          url: /mydoc_introduction.html
+#        - title: Product 1
+#          url: /p1_landing_page.html
+#        - title: Product 2
+#          url: /p2_landing_page.html
+
