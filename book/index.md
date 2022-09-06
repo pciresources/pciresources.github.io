@@ -35,7 +35,7 @@ The physical paperback copy of the book, called PCI DSS Made Easy, is a compilat
 
 
 The digital edition on 
-[Amazon Kindle](http://www.amazon.com/Yves-B.-Desharnais/e/B012KZCNTI) Platform and on the Apple iBooks platform.
+[Amazon Kindle](https://www.amazon.com/Yves-B.-Desharnais/e/B012KZCNTI) Platform and on the Apple iBooks platform.
 
 The first 3 volumes were initially release in 2015 for PCI DSS 3.1, and updated for PCI DSS 3.2 in summer 2016. 
 Volume 4, written for PCI DSS 3.2, was released in July 2017. 

@@ -19,7 +19,7 @@ As a reminder PCI DSS 3.2 will become the active standard as of November 1, 2016
 As a point release, this version did not change the DSS dramatically. The SSL/TLS changes of PCI DSS 3.1 and a subsequent revision published on December 18, 2015, were integrated in appendix A2 (and requirements using SSL/TLS now point to this appendix). Appendix A3 was added by integrating the DESV (Designated Entities Special Validation) requirements (applicable for designated entities only).
 
 In order to see what has changed in the standard, I created a comparison document in Microsoft Word which I've annotated and am making available as PDF on my website here (no registration required): 
-[http://www.pciresources.com/s/PCI-Resources-Changes-to-PCI-DSS-Requirements-31-to-32.pdf](http://www.pciresources.com/s/PCI-Resources-Changes-to-PCI-DSS-Requirements-31-to-32.pdf)
+[PCI-Resources-Changes-to-PCI-DSS-Requirements-31-to-32.pdf](/s/PCI-Resources-Changes-to-PCI-DSS-Requirements-31-to-32.pdf)
 
 ##New requirements for all entities (mandatory by February 2018)
 
@@ -62,7 +62,7 @@ While most other changes were clarifications to the requirements that do not aff
 
 
 *Requirement 11.5 (change detection management) had a change in its test procedures which used to imply that this requirement only applied to CDE systems and not connected ones (see this model for details: 
-[http://www.pciresources.com/pci-dss-scoping-model-and-approach/](http://www.pciresources.com/pci-dss-scoping-model-and-approach/) ). It is now clear that all in-scope systems should now be covered by this requirement.
+[https://www.pciresources.com/pci-dss-scoping-model-and-approach/](/pci-dss-scoping-model-and-approach/) ). It is now clear that all in-scope systems should now be covered by this requirement.
 
 These should be simple changes for merchants, while service providers have a bit more work on their hands.
 

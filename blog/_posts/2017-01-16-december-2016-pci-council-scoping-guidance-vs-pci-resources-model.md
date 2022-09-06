@@ -17,7 +17,7 @@ The PCI council (PCI SSC) finally released its promised
 I had started work on another article presenting key differences with PCI zones to network security zones, but as this guidance is relevant, I’ll cover this first and get back to the other article shortly.
 
 This new PCI council guidance aligns well with the 
-[PCI Resources scoping model and approach](http://www.pciresources.com/pci-dss-scoping-model-and-approach/) that I first released in summer 2015. This is not surprising as I had shared the model with the council around the time it was released and they had mentioned that they liked my approach. Whether I influenced their thinking or simply aligned with it is beside the point, the important issue is that we are in alignment.
+[PCI Resources scoping model and approach](/pci-dss-scoping-model-and-approach/) that I first released in summer 2015. This is not surprising as I had shared the model with the council around the time it was released and they had mentioned that they liked my approach. Whether I influenced their thinking or simply aligned with it is beside the point, the important issue is that we are in alignment.
 
 The guidance does add more details than I have in some categories, and has some slight differences that I’ll address here. This new guidance should also be reviewing alongside PCI DSS 3.2 Appendix A3 requirements A3.2 (“Document and validate PCI DSS scope”) that are only currently meant for entities designated by the card brands or their acquirer, but that will likely see inclusion in future versions of the PCI DSS for all entities (merchant, service providers, etc.).
 
