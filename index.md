@@ -32,7 +32,7 @@ The books can be purchased on the
 [Apple iBooks](https://itunes.apple.com/us/author/yves-b.-desharnais/id1089327373?mt=11) store (for iPad, iPhone and Mac computers). 
 
 The 
-[scoping model and approach](/book/pci-dss-scoping-model-and-approach) I use is available here (for free under a creative commons license) and further described and detailed in 
+[scoping model and approach](/pci-dss-scoping-model-and-approach) I use is available here (for free under a creative commons license) and further described and detailed in 
 [volume 2](/book/volume-2-toc).
 
 *Note: Amazon Kindle is a platform and not just a physical reader device. Kindle reader applications exist for iPhone/iPad, Android, PC, Mac, and even on the web.
