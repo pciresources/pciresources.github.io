@@ -10,7 +10,7 @@ meta: {}
 ---
 
 I have seen and heard about many ways of classifying systems for PCI DSS or expressing how to go about scoping. The most formal method I have found described out there is in the Open PCI Scoping Toolkit (OPST, http://itrevolution.com/pci-scoping-toolkit/) (which is not endorsed or approved by the PCI SSC). It was released in 2012, though I only learned of it in 2014. While I agree with the general approach to classifying systems, I have disagreements on the categories defined in the OPST. The lack of a model that I felt addressed PCI DSS appropriately is one of the reasons I dedicated a complete 
-[volume](/volume-2-toc) to scoping. I’ve decided to open the model under a Creative Commons licence (
+[volume](/book/volume-2-toc) to scoping. I’ve decided to open the model under a Creative Commons licence (
 [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)) for free to everyone in the hopes that we can all improve scoping and thus better manage our risks. The model is not endorsed or approved by the PCI SSC, though they are aware of it (and the PCI SSC, or PCI Council, has promised scoping guidance for 2016). The model can be found here: http://www.pciresources.com/pci-dss-scoping-model-and-approach/ (a PDF version is also available).
 
 

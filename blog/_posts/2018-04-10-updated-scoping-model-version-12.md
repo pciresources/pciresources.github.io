@@ -13,7 +13,7 @@ I'm happy to announce the release of the update for the
 [PCI Resources Scoping Model and Approach to version 1.2](/pci-dss-scoping-model-and-approach). The model is still available under a creative commons license (CC-BY-SA).
 
 The update is extracted from the most recent version of volume 2 of the book series (paperback called "
-[PCI DSS made easy](/books/book-series-home)", or individual digital volumes) released in December 2017. The major changes were addressing the PCI SSC (PCI council) supplement called "Guidance for PCI DSS Scoping and Network Segmentation".
+[PCI DSS made easy](/book/)", or individual digital volumes) released in December 2017. The major changes were addressing the PCI SSC (PCI council) supplement called "Guidance for PCI DSS Scoping and Network Segmentation".
 
 As I noted in a prior blog post over the other public model (OPST), my major gripe with other explanations was how to deal with segmentation. The same applies with the council’s guidance. I initially included segmentation as part of the CDE, while the PCI SSC document places it within the connected systems. This difference is not that critical for scope, but it can lead to confusion. The PCI DSS standard does state that:
 

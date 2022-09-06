@@ -11,37 +11,12 @@ meta: {}
 ---
 
 Late December 2017, the updated versions of the of the PCI Resources book series on PCI DSS were released (links at the end of this post). I received the first paperback copies in early January 2018, and other than tweaks to the cover page for a design issue (weird things can happen when you go from 312 to 458 pages), the book is unchanged from its December 2017 release. The physical book has a new ISBN number, while digital editions kept the same one.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
     
-  
-    
+![2017book.png](/s//2017book.png)
+
+<!--
 ![2017book.png](https://images.squarespace-cdn.com/content/v1/55934274e4b0d71f69d61a3c/1516157913322-6DN36Y7UX34KO79AWIXK/2017book.png)
-
-![2017book.png](https://images.squarespace-cdn.com/content/v1/55934274e4b0d71f69d61a3c/1516157913322-6DN36Y7UX34KO79AWIXK/2017book.png)
-  
-
-
-  
-
-
+-->
 
 As a reminder, the physical paperback book (PCI DSS made easy) is a compilation of the 4 individual digital-only (Kindle and iBooks) volumes; there were 3 volumes until July 2017's volume 4 introduction. Digital editions on Kindle and iBooks should be available to those who had previously purchased the books.
 
@@ -71,8 +46,6 @@ Note, that based on current information
 
 The PCI Resources PCI DSS Scoping Model and Approach will be updated shortly based on the changes in volume 2 (including PDF versions in A4 format for my friends across the pond). Other derivatives from the book will roll throughout 2018.
 
-
 *[Amazon paperback link](https://www.amazon.com/PCI-DSS-Made-Easy-2017/dp/0994837496/ref=asap_bc?ie=UTF8)
-
 
 *[Amazon Author Page](https://www.amazon.com/Yves-B.-Desharnais/e/B012KZCNTI)

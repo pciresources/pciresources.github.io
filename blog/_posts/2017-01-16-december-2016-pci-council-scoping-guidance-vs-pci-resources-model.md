@@ -29,70 +29,18 @@ The introduction and glossary are as one should expect. The only difference is t
 
 I still believe that the model I developed works well. If we compare “Figure 1 - PCI DSS Scoping Categories” to my own categories, we find they are similar. The 2 types of CDE systems are exactly what I would call CDE/CHD (called CDE/SPT in earlier versions of my model) and CDE/contaminated.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
     
-  
-    
-![PCI-Resources-council-scope-vs-model-cde.png](https://images.squarespace-cdn.com/content/v1/55934274e4b0d71f69d61a3c/1484582729810-8ATI9173UMVA4RNZRR1Q/PCI-Resources-council-scope-vs-model-cde.png)
-
-![PCI-Resources-council-scope-vs-model-cde.png](https://images.squarespace-cdn.com/content/v1/55934274e4b0d71f69d61a3c/1484582729810-8ATI9173UMVA4RNZRR1Q/PCI-Resources-council-scope-vs-model-cde.png)
-  
-
-
-  
-
+![PCI-Resources-council-scope-vs-model-cde.png](/s/PCI-Resources-council-scope-vs-model-cde.png)
 
 
 The one main difference seems to be with systems which I call CDE/segmenting, devices that provide (optional) network segmentation. In the PCI SSC guidance, these are considered “Connected-to or Security-impacting Systems” while I consider these to form the edge of the CDE (in my humble opinion, a must since without effective segmentation, there can be no connected systems, only CDE systems). The difference is minimal but at least the guidance makes clear that it is in scope. As I have written in the past, one issue I had with the OPST was the lack of clarity aboutwhether segmentation devices were a type 1 or type 2 system.
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
     
-  
-    
+![PCI-Resources-council-scope-vs-model-connected.png](/s/PCI-Resources-council-scope-vs-model-connected.png)
+
+<!--
 ![PCI-Resources-council-scope-vs-model-connected.png](https://images.squarespace-cdn.com/content/v1/55934274e4b0d71f69d61a3c/1484582799882-KQGZM4VEJ9D6ZDWN27I4/PCI-Resources-council-scope-vs-model-connected.png)
-
-![PCI-Resources-council-scope-vs-model-connected.png](https://images.squarespace-cdn.com/content/v1/55934274e4b0d71f69d61a3c/1484582799882-KQGZM4VEJ9D6ZDWN27I4/PCI-Resources-council-scope-vs-model-connected.png)
-  
-
-
-  
+--> 
 
 
 

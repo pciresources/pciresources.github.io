@@ -13,7 +13,7 @@ meta: {}
 This post is just a summary of changes that have occured but that I've not yet blogged about.
 
 
-Volumes 1 and 2 were release on the 
+Volumes 1 and 2 were released on the 
 [Amazon Kindle store](http://www.amazon.com/Yves-B.-Desharnais/e/B012KZCNTI) in July 2015.
 The 
 [PCI Resources Scoping Model and Approach](/pci-dss-scoping-model-and-approach), derived from volume 2 and published under a Creative Common license at the same time.
@@ -25,4 +25,4 @@ All 3 volumes were updated in January 2016 to reflect the
 
 
 All 3 volumes were published on the 
-[Apple iBooks store](https://itunes.apple.com/us/author/yves-b.-desharnais/id1089327373?mt=11)in early March 2016.
+[Apple iBooks store](https://itunes.apple.com/us/author/yves-b.-desharnais/id1089327373?mt=11) in early March 2016.
