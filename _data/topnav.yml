@@ -10,7 +10,7 @@ topnav:
     - title: Blog
       url: \/blog
     - title: Scoping Model
-      url: \/book\/pci-dss-scoping-model-and-approach
+      url: \/pci-dss-scoping-model-and-approach\/
 #    - title: PCI DSS overview
 #      url: \/pcidss
       
@@ -23,7 +23,7 @@ topnav_dropdowns:
         - title: Books Home
           url: \/book\/index.html
         - title: Scoping Model
-          url: \/book\/pci-dss-scoping-model-and-approach
+          url: \/pci-dss-scoping-model-and-approach\/
 #        - title: Books Home
 #          url: \/book\/index.html
 #        - title: Jekyll on Stack Overflow

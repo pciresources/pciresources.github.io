@@ -11,9 +11,9 @@ meta: {}
 
 Quick links to the english versions:
 
-[Get English - US letter](/s/Model-121-EN-US-PCIResources-Scoping-Model-Approach.pdf)
+[Get English - US letter - v1.3](/s/Model-13-EN-US-PCIResources-Scoping-Model-Approach.pdf)
 
-[GET English - A4 (Europe)](/s/Model-121-EN-A4-PCIResources-Scoping-Model-Approach.pdf)
+[GET English - A4 (Europe) - v1.3](/s/Model-13-EN-A4-PCIResources-Scoping-Model-Approach.pdf)
 
 ### **Model in PDF formats**
 
@@ -30,10 +30,9 @@ This page used to contain an HTML version of the model; it has been removed for 
 ## Model downloads
 
 
-* [English - US letter](/s/Model-121-EN-US-PCIResources-Scoping-Model-Approach.pdf)
+* [English - US letter - v1.3](/s/Model-13-EN-US-PCIResources-Scoping-Model-Approach.pdf)
 
-
-* [English - A4](/s/Model-121-EN-A4-PCIResources-Scoping-Model-Approach.pdf)
+* [English - A4 (Europe) - v1.3](/s/Model-13-EN-A4-PCIResources-Scoping-Model-Approach.pdf)
 
 
 *La version francaise du modèle, comme le livre, est en étape d'actualisation et devrait être disponible à l'automne 2022.*
