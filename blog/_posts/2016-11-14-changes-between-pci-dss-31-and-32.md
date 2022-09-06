@@ -13,7 +13,7 @@ This post was initially published on LinkedIn on October 13, 2016 at
 [https://www.linkedin.com/pulse/changes-between-pci-dss-31-32-yves-desharnais-mba-cissp-pcip?trk=prof-post](https://www.linkedin.com/pulse/changes-between-pci-dss-31-32-yves-desharnais-mba-cissp-pcip?trk=prof-post).
 
 This text is adapted from section 1.8.5 of my book series on PCI DSS. (
-[http://www.pciresources.com/book/](http://www.pciresources.com/book/)) and supplemented with information from the 2016 North American PCI Community meetings (PCICM) which I just attended a couple of weeks ago.
+[http://www.pciresources.com/book/](/book/)) and supplemented with information from the 2016 North American PCI Community meetings (PCICM) which I just attended a couple of weeks ago.
 As a reminder PCI DSS 3.2 will become the active standard as of November 1, 2016, although new requirements will only become mandatory on February 1, 2018. PCI DSS 3.1 can only be used for assessments ending by October 31, 2016.
 
 As a point release, this version did not change the DSS dramatically. The SSL/TLS changes of PCI DSS 3.1 and a subsequent revision published on December 18, 2015, were integrated in appendix A2 (and requirements using SSL/TLS now point to this appendix). Appendix A3 was added by integrating the DESV (Designated Entities Special Validation) requirements (applicable for designated entities only).
