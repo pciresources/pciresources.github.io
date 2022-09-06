@@ -21,7 +21,7 @@ Late December 2017, the updated versions of the of the PCI Resources book series
 As a reminder, the physical paperback book (PCI DSS made easy) is a compilation of the 4 individual digital-only (Kindle and iBooks) volumes; there were 3 volumes until July 2017's volume 4 introduction. Digital editions on Kindle and iBooks should be available to those who had previously purchased the books.
 
 I want to thank 
-[Jeff Man](https://www.linkedin.com/in/jeffreyeman) for the amazing foreword he wrote for this edition of the book which captures the need I felt is met by the book. I feel blessed to have the privilege of interacting with like-minded individuals of this caliber.
+[Jeff Man](https://twitter.com/mrjeffman) for the amazing foreword he wrote for this edition of the book which captures the need I felt is met by the book. I feel blessed to have the privilege of interacting with like-minded individuals of this caliber.
 
 While no version change has occured, this release was updated with the following changes (volume sections in parenthesis):
 

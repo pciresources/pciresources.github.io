@@ -28,7 +28,7 @@ explaining the various facets of the PCI DSS, the main standard maintained by th
 Links to other valuable resources will also be provided within each page.
 
 The books can be purchased on the 
-[Amazon](https://www.amazon.com/author/yvesbdesharnais) kindle store* or the 
+[Amazon](https://www.amazon.com/Yves-B.-Desharnais/e/B012KZCNTI) kindle store* or the 
 [Apple iBooks](https://itunes.apple.com/us/author/yves-b.-desharnais/id1089327373?mt=11) store (for iPad, iPhone and Mac computers). 
 
 The 
