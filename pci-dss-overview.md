@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: /pcidss/overview
+target: /pcidss/
 ---
