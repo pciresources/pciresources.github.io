@@ -8,8 +8,6 @@ status: publish
 type: page
 published: true
 meta: {}
-toc: false
-# This claim wass the reson for requirement 12.2 in versions prior to 4.0 to implement a risk assessment process to ensure that all risks are identified, assessed and addressed.
 ---
 
 

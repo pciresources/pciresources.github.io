@@ -12,7 +12,6 @@ meta: {}
 ## Book Series
 
 
-
 The goal of this book series is to provide a common understanding for business and technical people alike, and to provide a way for those people to communicate better about PCI DSS compliance, and information security in general. These books are not for dummies. I believe that PCI DSS can be explained to laymen if properly presented.
 
 
