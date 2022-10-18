@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Table of Content - Volume 1
+title: Table of Content - Volume 1 (PCI DSS 4.0 edition)
 categories: []
 tags: []
 status: publish
@@ -12,7 +12,7 @@ toc: false
 
 *Back to [books home](/book)*
 
-### Volume 1 - A Business Case for the PCI DSS 
+### Volume 1 - A Business Case for the PCI DSS (PCI DSS 4.0 edition)
 
 * 1.1 Volume Introduction 
 * 1.2 Why PCI DSS?

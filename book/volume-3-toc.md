@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Table of Content - Volume 3
+title: Table of Content - Volume 3 (PCI DSS 4.0 edition)
 categories: []
 tags: []
 status: publish
@@ -12,7 +12,7 @@ toc: false
 
 *Back to [books home](/book)*
 
-### Volume 3 - Building a PCI DSS Information Security Program
+### Volume 3 - Building a PCI DSS Information Security Program (PCI DSS 4.0 edition)
 
 * 3.1 Volume Introduction
 * 3.2 The High-Level PCI DSS requirements

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Table of Content - Volume 2
+title: Table of Content - Volume 2 (PCI DSS 4.0 edition)
 categories: []
 tags: []
 status: publish
@@ -12,7 +12,7 @@ toc: false
 
 *Back to [books home](/book)*
 
-### Volume 2 - PCI DSS Scoping 
+### Volume 2 - PCI DSS Scoping (PCI DSS 4.0 edition)
 
 * 2.1 Volume Introduction
 * 2.2 Scoping

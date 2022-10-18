@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Table of Content - Volume 4
+title: Table of Content - Volume 4 (PCI DSS 4.0 edition)
 categories: []
 tags: []
 status: publish
@@ -12,7 +12,7 @@ toc: false
 
 *Back to [books home](/book)*
 
-### Volume 4 - Hypothetical Case Studies - From Jane's Flower Attic to Jane's Flower Emporium
+### Volume 4 - Hypothetical Case Studies - From Jane's Flower Attic to Jane's Flower Emporium (PCI DSS 4.0 edition)
 
 * 4.1 Volume Introduction
   * 4.1.1 Assumptions
