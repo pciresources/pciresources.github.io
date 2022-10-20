@@ -24,6 +24,8 @@ topnav_dropdowns:
           url: \/book\/index.html
         - title: Scoping Model
           url: \/pci-dss-scoping-model-and-approach\/
+        - title: PCI DSS Overview
+          url: \/pcidss\/index.html
 #        - title: Books Home
 #          url: \/book\/index.html
 #        - title: Jekyll on Stack Overflow
